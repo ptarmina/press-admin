@@ -1,0 +1,29 @@
+---
+name: "Invite Returner"
+to_state: "invited"
+subject: "2017 Sundance Film Festival Press Credential Application"
+body: "Dear #{f_name},<br /><br />
+We are pleased to announce the availability of our online press accreditation application for the 2017 Sundance Film Festival, taking place January 19-29 in Park City, Salt Lake City and Sundance, Utah.<br /><br />
+You must submit an application requesting to be credentialed no later than Friday, December 9, 2016 at 5:00 p.m. Mountain Time.<br /><br />
+Click the URL below to log in. If the link does not automatically launch a web page please copy and paste the URL into your web browser.<br /><br />
+<a href=\"http://press.cfapps.io/#/sign-in?email=#{email}\">http://press.cfapps.io/#/sign-in?email=#{email}</a><br /><br />
+Carefully review each field to make sure your information is current. In addition, you must supply the following by <b>December 9</b>, 2016 at 5:00 p.m. MT:<br /><br />
+<ol>
+<li>
+A letter from your editor/producer assigning coverage, which details the type and focus of the planned editorial coverage.
+</li>
+<li>
+Please submit your coverage from the last Sundance Film Festival you attended or relevant film reviews.
+</li>
+<li>
+You will be asked to upload a photo for your credentials.
+</li>
+</ol>
+These items may require additional time to gather so please prepare them before beginning your online application. Electronic copies or scans of documents may be uploaded in PDF or .doc/.docx format.<br /><br />
+The policy for camera and crew team members is the same as last year. If you are planning to bring a camera crew to the Festival, please include the number of crew members, their roles, and their names in your assignment letter. If your application is accepted, further information on accrediting crew members will be provided.<br /><br />
+Once we have received your application, you will receive an email confirmation. We will notify you of the result of your application by Monday December 19 at 5:00 p.m. MT. Please keep in mind that credentials may not be transferred to another name.<br /><br />
+If you are planning on joining us, please do not delay booking your travel and accommodations! For rates on a wide range of lodging options, visit <a href=\"http://www.sundance.org/lodging\">http://www.sundance.org/lodging</a>. Be sure to arrive in time for our Day One Press Conference on Thursday, January 19 at 1:00 p.m.<br /><br />
+If you have any questions, please contact us at presscoverage@sundance.org or visit www.sundance.org/festival. We look forward to working with you and hope to see you in January!<br /><br />
+Sincerely,<br /><br />
+Casey, Spencer, Jason, Jenelle & Emily<br />
+Sundance Film Festival Press Office"

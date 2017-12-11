@@ -1,0 +1,19 @@
+---
+name: "Late Reminder VIP"
+to_state: "late_reminder"
+subject: "2017 Sundance Film Festival Press Accreditation - Late Application"
+body: "Dear #{f_name},<br /><br />
+Although the press application has officially closed, we can allow you access to complete the application past the deadline. Please follow the login instructions below and note the unique 4-digit code that will provide late access to the system <b><u>for the next 24 hours.</u></b><br /><br />
+If you plan to join us, please complete the registration form and update your contact information ASAP.<br /><br />
+Click the URL below to create a password and log in. If the link does not automatically launch a web page please copy and paste the URL into your web browser.<br /><br />
+<a href=\"http://press.cfapps.io/#/sign-in?email=#{email}\">http://press.cfapps.io/#/sign-in?email=#{email}</a><br /><br />
+When prompted, please enter the 4-digit access code below.<br />
+<b>Access code: 2728</b><br /><br />
+Please carefully review each field to make sure your information is current. You may be asked to submit a photo if we do not have one on file.<br /><br />
+Once we have received your completed RSVP, you will receive an email confirmation by Monday December 19th, 2016 at 5:00 p.m. MT. Please keep in mind that credentials may not be transferred to another name.<br /><br />
+If you are planning on joining us, please do not delay booking your travel and accommodations. Be sure to arrive in time for the Festival’s Day One Press Conference on Thursday, January 19 at 1:00 p.m. For rates on a wide range of lodging options, visit <a href=\"http://www.sundance.org/lodging\">http://www.sundance.org/lodging</a>.<br /><br />
+If you have any questions regarding your credentials or the Festival, please contact us at presscoverage@sundance.org or visit www.sundance.org/festival. We look forward to working with you, and hope to see you in January!<br /><br />
+Sincerely,<br />
+Sundance Film Festival Press Office"
+
+

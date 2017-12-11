@@ -1,0 +1,10 @@
+
+    {
+    "isProto":"false",
+	"email":"me@me.com",
+	"pw":"abc123",
+	"logInPath":"/api/v1/services/login",
+	"forgotPath":"/api/v1/services/forgot",
+	"signUpPath":"/api/v1/services/signup"
+    }
+
